@@ -17,3 +17,13 @@
 ### a way to make a backup before using rebase is an excellent idea for avoiding "surprises"
 #### what i intend to use in future:
 ### everything from the course is beneficial for my current and future works
+
+## Intro to HTML and CSS
+![html & css tasks finished(1)](https://github.com/cuteman18/kottans-frontend/blob/main/task_html_css_intro/html-css.png)
+![html & css tasks finished(2)](https://github.com/cuteman18/kottans-frontend/blob/main/task_html_css_intro/Intro-to-HTML-and-CSS-2020-11-11.png)
+#### what was new for me:
+### understanding of setting up web pages
+#### what surprised me:
+### thorough explanation of html & csss technics
+#### what i intend to use in future:
+### all details are really helpfull

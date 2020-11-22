@@ -34,6 +34,6 @@
 #### what was new for me:
 ### everything! as i've never used these features before
 #### what surprised me:
-### was quite difficult to gather all ideas in one bunch:)
+### it was quite difficult to gather all ideas in one bunch:)
 #### what i intend to use in future:
 ### i assume that for a web developer any part of this course should be a must

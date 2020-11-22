@@ -27,3 +27,7 @@
 ### thorough explanation of html & csss technics
 #### what i intend to use in future:
 ### all details are really helpfull
+
+## Responsive Web Design
+![Responsive Web Design Fundamentals](https://github.com/cuteman18/kottans-frontend/blob/main/task_responsive_web_design/course_1_completed.png)
+![Flexbox Froggy](https://github.com/cuteman18/kottans-frontend/blob/main/task_responsive_web_design/course-2-completed.png)

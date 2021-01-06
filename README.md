@@ -37,3 +37,13 @@
 ### it was quite difficult to gather all ideas in one bunch:)
 #### what i intend to use in future:
 ### i assume that for a web developer any part of this course should be a must
+
+## JS Basics
+![Intro to JS](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/intro_to_JS.png)
+![Basic_JavaScript](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/Basic_JavaScript.png)
+![ES6_Challenges](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/ES6_Challenges.png)
+![Basic_Data_Structures](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/Basic_Data_Structures.png)
+![Basic_Algorithm_Scripting](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/Basic_Algorithm_Scripting.png)
+![Functional_Programming](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/Functional_Programming.png)
+![Algorithm_Scripting_Challenges](https://github.com/cuteman18/kottans-frontend/blob/main/JS_Basics/Algorithm_Scripting_Challenges.png)
+
